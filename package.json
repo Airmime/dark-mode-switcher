@@ -1,0 +1,33 @@
+{
+  "name": "dark-mode-switcher",
+  "version": "0.0.1",
+  "description": "Pure JS script allow you to switch your web interface in dark mode.",
+  "main": "./dist/",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Airmime/dark-mode-switcher.git"
+  },
+  "keywords": [
+    "css",
+    "dark",
+    "mode",
+    "dark mode",
+    "switcher",
+    "js"
+  ],
+  "author": "Remi MARION",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Airmime/dark-mode-switcher/issues"
+  },
+  "homepage": "https://github.com/Airmime/dark-mode-switcher#readme",
+  "dependencies": {
+    "minify": "^5.1.1"
+  },
+  "devDependencies": {
+    "eslint": "^7.7.0"
+  }
+}

@@ -51,13 +51,13 @@ In order to develop a web page with a dark theme, the use of CSS variables is ne
 
 ```css
 html{ /* same as : html[data-theme='light'] */
-  --default-bg: $default-bg;
-  --default-font-color: $default-font-color;
+  --default-bg: #ffffff;
+  --default-font-color: #000000;
 }
 
 html[data-theme='dark'] {
-  --default-bg: $default-bg-dark-lighter;
-  --default-font-color: $default-font-color-dark;
+  --default-bg: #000000;
+  --default-font-color: #ffffff;
 }
 ```
 

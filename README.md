@@ -3,7 +3,7 @@
 >Pure JS allow you to switch your web interface in dark mode.
 
 ## Informations
-This script has been developed in parallel with the minstyle.io project, in order to facilitate the integration of the button to change display mode.
+This script has been developed in parallel with the [minstyle.io](https://github.com/Airmime/minstyle.io) project, in order to facilitate the integration of the button to change display mode.
 
 ## Version
 dark-mode-switcher V0.0.1
